@@ -36,7 +36,7 @@ The repository provides the basic structure, blocks, and configuration needed to
     ├── lazy-styles.css     # Additional global styling and layout for below the fold/post LCP content
     └── fonts.css           # Font definitions
 ├── scripts/         # JavaScript libraries and utilities
-    ├── aem.js           # Core AEM Library for Edge Delivery page decoration logic (NEVER MODIFY THIS FILE)
+    ├── aem.js           # Core AEM ary for Edge Delivery page decoration logic (NEVER MODIFY THIS FILE)
     ├── scripts.js       # Global JavaScript utilities, main entry point for page decoration
     └── delayed.js       # Delayed functionality such as martech loading
 ├── fonts/           # Web fonts
